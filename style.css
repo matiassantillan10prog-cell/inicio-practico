@@ -1,0 +1,19 @@
+*{margin: 0;
+padding: 0;
+box-sizing: border-box;
+font-family: "Hanken Grotesk", sans-serif; 
+}
+
+:root{
+    --fontprincipal: #12131A;
+    --fontcard:#1C1F2A;
+    --textprincipal:#F2F2F7;
+    --cardviolet:#B4B7C9;
+    --cardnarange:#FFB21E;
+    --cardcoral:#FF8A65;
+    --barrasprogres:#D19BFF;
+    --bordersutil:#2A2D3A;
+
+
+   
+}
