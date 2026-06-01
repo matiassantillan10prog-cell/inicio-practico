@@ -2,6 +2,7 @@
 padding: 0;
 box-sizing: border-box;
 font-family: "Hanken Grotesk", sans-serif; 
+color: white;
 }
 
 :root{
@@ -13,7 +14,24 @@ font-family: "Hanken Grotesk", sans-serif;
     --cardcoral:#FF8A65;
     --barrasprogres:#D19BFF;
     --bordersutil:#2A2D3A;
-
-
-   
 }
+section{
+    background-color: var(--fontcard);
+    padding: 20px;
+    margin: 50px auto;
+    width: 600px;
+}
+img{background-color: #FFB21E;
+    width: 50px;}
+
+    .header{
+      display: flex;
+      justify-content: space-between;
+      
+    }
+    .title{background-color:salmon;
+    width:30px;}
+
+
+
+
