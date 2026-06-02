@@ -14,4 +14,17 @@ estilizados. La propuesta se centra en la aplicación de HTML y CSS
       < progress > y se trabajó con flexbox para lograr una
        distribución equilibrada.
        
+       -------------------------------------------------------------
+
+       El documento se estructuró de forma semántica, utilizando secciones para cada parte del proyecto: encabezado, área de texto, estadísticas y gráfico de densidad. Se emplearon etiquetas como <section>, <div>, <progress> y <button> para mantener una jerarquía clara y fácil de leer.
+    
+    ---------------------------------------------------------------
+
+    El diseño se basó en un esquema oscuro con colores contrastantes (violeta y naranja) para destacar las métricas. Se aplicaron propiedades como flexbox para la distribución, border-radius para suavizar los bordes y box-shadow para dar profundidad. También se personalizó el componente <progress> para lograr el estilo visual de las barras.
+
+    ---------------------------------------------------------
+
+    Durante el desarrollo, la principal dificultad fue lograr que las barras de progreso se adaptaran correctamente al diseño y mantener la coherencia visual entre los distintos fondos. También se trabajó en ajustar los tamaños y colores para que el resultado final fuera equilibrado.
+
+
   
