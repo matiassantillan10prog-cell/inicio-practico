@@ -13,5 +13,5 @@ estilizados. La propuesta se centra en la aplicación de HTML y CSS
      propiedades específicas para personalizar componentes como el
       < progress > y se trabajó con flexbox para lograr una
        distribución equilibrada.
-
+       
   
