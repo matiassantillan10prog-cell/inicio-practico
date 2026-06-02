@@ -62,6 +62,53 @@ label{
   font-size: 12px;
 margin-top: 4px;}
 
+.stats{background-color: darkblue;
+  display: flex;
+  justify-content:space-around;
+  padding: 20px;
+  align-items: center;
+  border-radius: 10px;
+}
+.orange{
+  background-color: #FFB21E;
+  text-align:justify;
+  padding: 10px ;
+  border-radius: 10px;
+  width: 150px;
+box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}
+.card-purple{background-image:url(./assets/fondo1.png);
+  background-size: contain;
+  text-align:justify;
+  padding: 10px ;
+  border-radius: 10px;
+  width: 150px;
+box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}
+.yellow{background-image: url(./assets/fondo2.png);
+  background-size: contain;
+  text-align:justify;
+  padding: 10px ;
+  border-radius: 10px;
+  width: 150px;
+box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}
+.stats h2 {
+  margin: 0;
+  font-size: 40px;
+  color: #12131A;
+}
+
+
+
+
+
+ 
+  
+
+
+
+
 
 
 
