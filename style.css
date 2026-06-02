@@ -15,22 +15,60 @@ color: white;
     --barrasprogres:#D19BFF;
     --bordersutil:#2A2D3A;
 }
+
 section{
     background-color: var(--fontcard);
-    padding: 20px;
-    margin: 50px auto;
-    width: 600px;
+    padding: 10px;
+    width: 550px;
+    margin:50px auto;
+   
 }
-img{background-color: #FFB21E;
-    width: 50px;}
+img{background-color: #181002;
+    width: 40px;}
 
     .header{
       display: flex;
+      flex-flow: row;
       justify-content: space-between;
-      
+      position: relative;
     }
-    .title{background-color:salmon;
-    width:30px;}
+    
+
+  .title{
+    width: 150px;
+    position: absolute;
+    left: 25px;
+    top: 5px;
+    font-weight: 10px;
+    }
+h1{
+  text-align: center;
+font-weight: 800;
+margin: 10px 0 30px 0;
+font-size: 40px;}
+
+.text-area{
+  background-color: #181002;
+}
+.options{
+  display: flex;
+  justify-content: space-between;
+
+ }
+label{
+  font-size: 12px;
+}
+.brawl{
+  font-size: 12px;
+margin-top: 4px;}
+
+
+
+
+
+
+
+
 
 
 
